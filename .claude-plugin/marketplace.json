@@ -1,0 +1,37 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tom-claude-skills",
+  "description": "Opinionated Claude Code skills for building client websites, CRMs, and search visibility — the actual stack behind the builds, not a demo.",
+  "owner": {
+    "name": "Tom Griffiths"
+  },
+  "plugins": [
+    {
+      "name": "better-websites",
+      "description": "Six-resource pipeline that stops Claude inventing generic layouts — real design systems for structure, a 5-role palette, generative SVG backgrounds, and a motion direction picked before any code is written.",
+      "source": "./plugins/better-websites",
+      "category": "design",
+      "author": {
+        "name": "Tom Griffiths"
+      }
+    },
+    {
+      "name": "crm-build",
+      "description": "Generates a client-ready single-file CRM for any trade or local business — drag-and-drop pipeline, quotes and invoices, CSV import/export — seeded with believable data relative to today.",
+      "source": "./plugins/crm-build",
+      "category": "productivity",
+      "author": {
+        "name": "Tom Griffiths"
+      }
+    },
+    {
+      "name": "seo-geo-ai",
+      "description": "One prompt, one finished site: a multi-agent overhaul covering classic SEO, generative engine optimization, and AI-search visibility, that audits in parallel and loops until the site comes back clean.",
+      "source": "./plugins/seo-geo-ai",
+      "category": "productivity",
+      "author": {
+        "name": "Tom Griffiths"
+      }
+    }
+  ]
+}

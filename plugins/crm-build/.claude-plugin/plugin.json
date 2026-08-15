@@ -1,0 +1,7 @@
+{
+  "name": "crm-build",
+  "description": "Generates a client-ready single-file CRM for any trade or local business — drag-and-drop pipeline, quotes and invoices, CSV import/export — seeded with believable data relative to today.",
+  "author": {
+    "name": "Tom Griffiths"
+  }
+}

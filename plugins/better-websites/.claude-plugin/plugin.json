@@ -1,0 +1,7 @@
+{
+  "name": "better-websites",
+  "description": "Six-resource pipeline that stops Claude inventing generic layouts — real design systems for structure, a 5-role palette, generative SVG backgrounds, and a motion direction picked before any code is written.",
+  "author": {
+    "name": "Tom Griffiths"
+  }
+}
